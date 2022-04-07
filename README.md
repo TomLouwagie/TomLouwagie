@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tom Louwagie
-- 👀 I’m interested in Software
 - 🌱 I’m currently learning Web3 with 🦀 ⚓
-- 💞️ I’m looking to collaborate on startup ideas and software projects
-- 📫 Reach me at tom@louwagie.com
+- 💞️ Reach out if you are looking for a job in Web3 or are actively hiring Web3 talent!
+- 📫 Contact me at tom@louwagie.com
 
