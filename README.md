@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tom Louwagie, most of my project are with Bubble.io complemented with code.
-- 🌱 I’m the founder of https://www.minimum-code.com/, we help non-technical founders launch startups in 1 month or less. 🤖
+- 🌱 I’m the founder of www.minimum-code.com, we help non-technical founders launch startups in 1 month or less. 🤖
 - 💞️ Reach out if you want to collaborate!
 - 📫 Contact me at tom@minimum-code.com
